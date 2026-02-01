@@ -65,7 +65,7 @@
 
 您可以通过以下两种方式获取本仓库代码：
 
-#### 方式1：通过 Git Clone 克隆仓库（推荐，支持后续更新）
+#### 方式1：通过 Git Clone 克隆仓库
 
 打开终端(Bash)，执行命令：
 
@@ -73,7 +73,7 @@
 git clone https://github.com/HelloToday/lq_embedded_platform.git
 ```
 
-#### 方式 2：直接下载 ZIP 压缩包（快速获取，不支持后续更新）
+#### 方式 2：直接下载 ZIP 压缩包
 
 1. 访问 GitHub 仓库地址：`https://github.com/HelloToday/lq_embedded_platform`
 2. 点击仓库页面右上角的 **Code** 按钮
